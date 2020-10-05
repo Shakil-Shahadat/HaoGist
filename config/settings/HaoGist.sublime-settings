@@ -23,7 +23,7 @@
     // http_proxies settings, you can set it as below example,
     // see more detail at:
     // http://docs.python-requests.org/en/latest/user/advanced/#proxies
-    /*    
+    /*
         "http_proxies": {
             "http"  : "http://user:%23Cpassword%23C:server:port",
             "https" : "http://user:%23Cpassword%23C:server:port"
